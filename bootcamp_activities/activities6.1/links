@@ -1,23 +1,10 @@
-Slack out Link
+Slack out Links
 
-<<<<<<< HEAD
 Json Formatter
 https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa/related?hl=en
 
-API Headlines
+Headline Scraper
 http://nyt-mongo-scraper.herokuapp.com/api/headlines
 
-: Using the Mashape API library as a starting point experiment with a few APIs of your own.
-
-Note: You will need to create an account on Mashape first.
-
-Note: Not all of the APIs are easy to use, just keep experimenting!Using the Mashape API library as a starting point experiment with a few APIs of your own.
-
-Note: You will need to create an account on Mashape first.
-
-Note: Not all of the APIs are easy to use, just keep experimenting!
-
-=======
-
-https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa/related?hl=en
->>>>>>> 65c8d9a32404968daaa1287d08c41c4510979422
+Mashape
+https://market.mashape.com/
