@@ -95,7 +95,7 @@ The significance of the .then function and the variable created (in this case us
 
 ---
 
-Students Do: Inquirer User Activity	(0:20)
+18.	Students Do: Inquirer User Activity	(0:20)
 Then slack out the next activity.
 
 Files:
@@ -122,20 +122,16 @@ Remember to get creative with your code!
 
 ---
 
-Partners Do: Inquirer Geocode + Begin ZombieChallenge	(0:15)
-Move onto the next activity. Slack out the following file and instructions:
+Zombie Challenge (BONUS)	(1:00)
+Use the following activity to fill up any remaining time you have in class (or to keep advanced students occupied if they finish the Inquirer activity early). This is a fairly challenging and time consuming activity, so let students know they may not finish in class, but a solution will be provided to them nonetheless afterwards.
 
 File:
 
-inquirerGeocode.js
+zombieGame.js (29-ZombieChallenge > UNSOLVED)
+
+ZombieGame.mp4
+
 Instructions:
 
-Working in pairs, convert the geocoding code from earlier today so that it uses inquirer.js instead of process.argv to handle the intake of user inputs.
-
-Make sure your new code provides the exact same output as it did with process.argv.
-
-HINT: Don't forget to create your package.json file and save the correct packages to it.
-
-HINT: You should not need to change that much code.
-
-BONUS: If you finish early, grab a TA's attention so that they can slack out the bonus activity (29-ZombieChallenge).
+Follow the instructions in the file sent to you to create a turn-based Zombie RPG game. You can also reference the video sent to you to have a clearer idea of what the final product should look like.
+Note for Instructors / TAs: This is also a good time to help weaker students catch up in class if they are missing more critical concepts.
