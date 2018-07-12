@@ -2,6 +2,8 @@
 var birds = {
   // creates the property "flying" and sets it to true
   flying: true,
+  
+  haswings: true,
   // creates the property "noise" and sets it to "Tweet!"
   noise: "Tweet!",
   // creates the method "makeNoise", prints birds.noise   if flying is true
@@ -13,4 +15,9 @@ var birds = {
   }
 };
 
-//birds.makeNoise();
+if (birds.haswings){
+  console.log("Your Flying!");
+}
+birds.noise = "Bark!";
+
+birds.makeNoise();
