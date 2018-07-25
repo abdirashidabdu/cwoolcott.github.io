@@ -38,12 +38,16 @@ Create a website with four routes:
 
 # Request Methods
 
+https://assertible.com/blog/7-http-methods-every-web-developer-should-know-and-how-to-test-them
+
+Curl
+
 curl -i -H "Accept: application/json" -X GET -d "firstName=james" http://localhost:8080
 curl -i -H "Accept: application/json" -X POST -d "firstName=james" http://localhost:8080
 curl -i -H "Accept: application/json" -X PUT -d "firstName=james" http://localhost:8080
 curl -i -H "Accept: application/json" -X DELETE -d "firstName=james" http://localhost:8080
 
-Option:  Postman
+Postman
 https://www.getpostman.com/apps
 https://www.getpostman.com/docs/v6/postman/sending_api_requests/request
 
