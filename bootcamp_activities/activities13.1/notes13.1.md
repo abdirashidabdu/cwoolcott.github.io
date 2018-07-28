@@ -40,14 +40,15 @@ Create a website with four routes:
 
 https://assertible.com/blog/7-http-methods-every-web-developer-should-know-and-how-to-test-them
 
-Curl
+Curl (revised to work with requestMethodserver_chris.js)
 
-curl -i -H "Accept: application/json" -X GET -d "firstName=james" http://localhost:8080
-curl -i -H "Accept: application/json" -X POST -d "firstName=james" http://localhost:8080
-curl -i -H "Accept: application/json" -X PUT -d "firstName=james" http://localhost:8080
-curl -i -H "Accept: application/json" -X DELETE -d "firstName=james" http://localhost:8080
+curl -i -H "Accept: application/json" -X GET -d "{\"productName\":\"Table\"}" http://localhost:8080
+curl -i -H "Accept: application/json" -X POST -d "{\"productName\":\"Table\"}" http://localhost:8080
+curl -i -H "Accept: application/json" -X PUT -d "{\"productName\":\"Table\"}" http://localhost:8080
+curl -i -H "Accept: application/json" -X DELETE -d "{\"productName\":\"Table\"}" http://localhost:8080
 
-Postman
+Postman (use requestMethodserver_chris.js)
+
 https://www.getpostman.com/apps
 https://www.getpostman.com/docs/v6/postman/sending_api_requests/request
 
