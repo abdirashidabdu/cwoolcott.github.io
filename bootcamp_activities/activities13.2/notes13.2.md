@@ -84,6 +84,7 @@ Create/login to  Heroku accounts .
 File:
 
 01-Activities/14-FinalStarWarsApp (solution, zipped)
+
 03-Supplemental/HerokuGuide (slacked out or link to class repo posted)
 Instructions:
 
@@ -97,6 +98,9 @@ Creating a route in the server.js file for sending users a new HTML file
 Creating an HTML file that grabs data from the server.
 Be sure to walk around and help students as they hit snags or have problems pushing to heroku, consulting the troubleshooting tips below as needed.
 
+## Use heroku
+$ git init
+$ heroku git:remote -a starwarscoolness
 
 
 ## Re-Group (0:05)
