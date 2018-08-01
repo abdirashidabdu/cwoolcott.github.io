@@ -1,6 +1,9 @@
 # Node Express Handlebars
 
-### Websitea
+### Poll
+https://pollev.com/chriswoolcot778
+
+### Website
 http://handlebarsjs.com/
 
 ###  Students Do: Express Calculator (20 minutes)
@@ -32,7 +35,7 @@ Create a Node Application with Express, MySQL, and Body Parser with three Expres
 
     * Create a `/attitude-chart/:att` route that will display all the actors for a specific type of attitude.
 
-### Before You Begin
+### Eat-Da-Burger!
 
 * Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat.
 
@@ -45,7 +48,8 @@ Create a Node Application with Express, MySQL, and Body Parser with three Expres
 * [Check out this video of the app for a run-through of how it works](burger_demo.mp4).
 
 ### Partners Do: Explaining Lunches Application (10 minutes)
-Slack out a zipped version of 04-HandlebarsLunch to your students, have them open it up, and to those students around them, have them explain how the code functions. Once they are finished going over main and index, instruct them to look into all-lunches in an attempt to figure out how the code in there works as well.
+
+Using the zipped version of 04-HandlebarsLunch  open it up, and to those  around you, explain how the code functions. Once you are finished going over main and index, look into all-lunches in an attempt to figure out how the code in there works as well.
 
 ### 11. Partners Do: Ben and Jerry's App
 
