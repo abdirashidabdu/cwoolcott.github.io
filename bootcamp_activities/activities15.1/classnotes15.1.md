@@ -105,5 +105,17 @@ $.post("/api/new", jsonData)
 
 });
 
+### Steps for Sequelize CLI
+
+CREATE DATABASE ‘database_development’;
+SequelizeQuickStartGuide.PDF and Sequelize CLI Skeleton
+Update Package.json to include additional Dependencies
+Run ‘npm Install’
+Run ‘sequelize init:config & sequelize init:models’
+Update DB Password in config.json
+Create user.js Model in model folder
+Add db require and ‘db.sequelize.sync().then…’ code to server.js
+Run server.js
+
 
 
